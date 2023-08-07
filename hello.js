@@ -3,3 +3,4 @@
 
 console.log('Hello, World!');
 console.log("This code works");
+console.log("This a new commit")
